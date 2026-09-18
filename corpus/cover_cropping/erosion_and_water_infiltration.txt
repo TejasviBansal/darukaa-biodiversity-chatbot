@@ -1,0 +1,25 @@
+INTERVENTION: cover_cropping
+METRIC: erosion_risk
+SOURCE: USDA NRCS Cover Crops for Soil Health
+SOURCE_URL: https://www.nrcs.usda.gov/conservation-basics/soil/soil-health/cover-crops-for-soil-health
+REGION: united_states
+---
+Cover crops reduce erosion risk by shielding bare soil from raindrop impact,
+slowing surface runoff, and holding soil in place with roots. USDA NRCS describes
+cover crops as non-cash crops grown during otherwise bare periods to protect,
+stabilize, and enrich the soil. This protection is especially important after
+harvest, during fallow periods, and in fields where low residue cover leaves the
+surface exposed to wind or water erosion.
+
+The water benefits of cover crops are closely tied to soil structure. As roots
+grow and residues decompose, soil aggregation can improve, which allows more
+rainfall to enter the profile instead of running off the surface. Better
+infiltration can reduce sediment movement and help crops withstand short dry
+spells. These outcomes vary by species, planting window, biomass level, soil
+texture, and termination timing. A dense cover crop may provide strong erosion
+control, but in water-limited regions it should be matched to seasonal rainfall
+and the water needs of the following crop. The strongest benefits generally come
+when cover crops are paired with residue retention, reduced disturbance, and
+diverse rotations. SARE summarizes field evidence showing non-legume cover crops
+reduced soil loss by about 31-100 percent compared with no cover crop, while
+legume cover crops reduced soil loss by about 38-69 percent.

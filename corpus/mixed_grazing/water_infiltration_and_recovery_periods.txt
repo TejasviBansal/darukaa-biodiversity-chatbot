@@ -1,0 +1,23 @@
+INTERVENTION: mixed_grazing
+METRIC: water_infiltration
+SOURCE: USDA NRCS Soil Health on Pastureland
+SOURCE_URL: https://www.nrcs.usda.gov/conservation-basics/soil/soil-health/soil-health-on-pastureland
+REGION: united_states
+---
+Grazing systems influence water infiltration through their effects on soil
+cover, root growth, compaction, and plant recovery. USDA NRCS notes that
+overgrazing reduces infiltration capacity, increases runoff and flooding, and
+can lead to declining plant production and shifts in species composition. Mixed
+or rotational grazing can improve outcomes when it allows plants enough time to
+recover and rebuild leaf area and roots before being grazed again.
+
+Recovery periods are central because root growth and soil biological activity
+depend on photosynthesis. If animals return too quickly, plants lose vigor,
+bare patches expand, and hoof impact can compact wet soils. If grazing is timed
+well, manure and plant residues feed soil organisms, roots maintain pore spaces,
+and cover moderates soil temperature. Mixed grazing may distribute use across
+grasses, forbs, shrubs, or browse, but it still requires careful stocking and
+movement. Water points and shade should be placed to avoid repeatedly damaging
+the same streambanks or low areas. Useful field indicators include infiltration
+after storms, hoof pugging, litter cover, plant recovery height, and whether
+desirable forage species are increasing or declining.

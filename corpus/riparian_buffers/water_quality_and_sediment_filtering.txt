@@ -1,0 +1,26 @@
+INTERVENTION: riparian_buffers
+METRIC: water_quality
+SOURCE: USDA NRCS Riparian Forest Buffer
+SOURCE_URL: https://www.nrcs.usda.gov/conservation-basics/land/forests/agroforestry-systems/riparian-forest-buffer
+REGION: united_states
+---
+Riparian forest buffers are corridors of trees and shrubs planted next to
+streams, rivers, wetlands, or other water bodies. USDA NRCS describes their
+primary purposes as protecting near-stream soils, trapping chemicals or sediment
+from surface and subsurface flows, and providing shade, detritus, and woody
+debris for aquatic ecosystems. These functions make riparian buffers one of the
+most direct biodiversity interventions for farms connected to waterways.
+
+The water-quality benefit comes from slowing runoff, increasing infiltration,
+stabilizing banks, and filtering sediment and nutrients before they enter the
+stream. Tree roots and perennial vegetation also help hold streambanks in place.
+Shade can moderate water temperature, which matters for aquatic species sensitive
+to heat stress. Buffer width, slope, soil type, vegetation density, and upstream
+management all affect performance. A narrow strip may provide some bank
+stability, while wider and more diverse buffers generally support stronger
+habitat and filtering functions. Livestock exclusion, controlled crossings, and
+alternative watering points often make buffers more effective by preventing
+trampling and direct manure deposition in the stream corridor. NRCS describes
+typical riparian forest buffer widths of about 15-100 feet, and USDA-linked
+extension guidance commonly cites sediment and nutrient reductions in the
+70-95%+ range depending on buffer width, vegetation, slope, and flow path.

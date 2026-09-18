@@ -1,0 +1,26 @@
+INTERVENTION: agroforestry
+METRIC: biodiversity
+SOURCE: FAO Agroforestry Overview
+SOURCE_URL: https://www.fao.org/agroforestry/about-agroforestry/overview/
+REGION: general
+---
+Agroforestry deliberately integrates woody perennials with crops and/or animals
+in a spatial arrangement or temporal sequence. FAO frames agroforestry as a land
+management approach that can diversify production while strengthening ecological
+and socio-economic interactions among system components. For biodiversity, the
+main advantage is structural diversity: trees, shrubs, crops, forage, leaf
+litter, roots, and shaded microhabitats support more niches than a simplified
+annual monoculture.
+
+Soil organic carbon can also improve where trees increase belowground biomass,
+add leaf litter, reduce erosion, and maintain perennial cover. These gains are
+not automatic. They depend on species choice, planting density, pruning,
+competition for water and light, and whether residues are retained or removed.
+Agroforestry is especially relevant in degraded landscapes where long-lived
+woody vegetation can rebuild habitat continuity and provide shade, fodder,
+fruit, fuelwood, or timber. Good design avoids simply replacing one monoculture
+with another. Mixed, locally adapted systems usually offer stronger resilience
+than single-species tree rows managed only for one product. FAO summarizes that
+some agroforestry systems can support roughly 50-80 percent of the biodiversity
+found in natural forests, a useful benchmark but not a guarantee for simplified
+or poorly managed plantings.

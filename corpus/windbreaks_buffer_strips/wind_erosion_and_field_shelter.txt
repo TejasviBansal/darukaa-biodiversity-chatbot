@@ -1,0 +1,26 @@
+INTERVENTION: windbreaks_buffer_strips
+METRIC: erosion_risk
+SOURCE: USDA NRCS Field Windbreak
+SOURCE_URL: https://www.nrcs.usda.gov/conservation-basics/land/forests/agroforestry-systems/field-windbreak
+REGION: united_states
+---
+Field windbreaks are rows of trees or shrubs planted across prevailing damaging
+winds to reduce wind speed in the protected area. USDA NRCS describes their
+primary purposes as controlling wind erosion, distributing snow, improving crop
+quality and production, and improving water use efficiency. By slowing wind at
+the soil surface, windbreaks reduce the movement of fine particles that often
+contain organic matter and nutrients.
+
+Windbreak performance depends on height, density, continuity, orientation, and
+species selection. NRCS design guidance commonly describes moderately porous
+barriers rather than solid walls because some air movement through the planting
+creates a longer, more useful wind shadow. In exposed drylands, the soil
+protection value can be substantial, especially where crop residues are low or
+fields are vulnerable after tillage. Windbreaks also require management: gaps,
+dead trees, or poorly adapted species reduce effectiveness. Root competition and
+shading near the tree row should be considered when choosing crops and spacing.
+When designed well, windbreaks add perennial habitat while protecting cropland
+from wind-driven erosion and moisture loss. NRCS field windbreak guidance gives
+a design target of 35-60 percent barrier density during the erosion period, with
+windbreak intervals commonly spaced about 5H to 20H apart, where H is tree
+height.

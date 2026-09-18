@@ -1,0 +1,5 @@
+pytest==8.3.4
+ruff==0.8.4
+mypy==1.14.1
+chromadb>=1.0,<2.0
+sentence-transformers>=3.0,<4.0

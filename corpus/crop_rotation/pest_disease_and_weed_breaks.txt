@@ -1,0 +1,23 @@
+INTERVENTION: crop_rotation
+METRIC: pest_pressure
+SOURCE: FAO Conservation Agriculture Species Diversification
+SOURCE_URL: https://www.fao.org/conservation-agriculture/in-practice/species-diversification/en/
+REGION: general
+---
+Crop rotation is a core strategy for reducing the carry-over of crop-specific
+pests, diseases, and weeds. FAO conservation agriculture guidance notes that
+rotation has an important phytosanitary function because it interrupts the
+movement of pests and diseases from one crop to the next. This is especially
+important where the same host crop is planted repeatedly and pests can complete
+their life cycles without disruption.
+
+The most useful rotations separate crops from the same family, vary planting
+and harvest timing, and include species with different residue and rooting
+characteristics. A break crop may reduce disease inoculum, shift weed pressure,
+or create a window for non-chemical weed control. Rotations can also support
+beneficial organisms by providing diverse root exudates and residues. Results
+depend on the biology of the target pest and the length of the break. Some
+soil-borne pathogens persist for years, while other pests respond quickly to a
+single non-host crop. Good rotation planning therefore starts with the local
+problem: pest, weed, nutrient imbalance, erosion, livestock feed gap, or soil
+carbon depletion. The rotation should then be designed around that constraint.

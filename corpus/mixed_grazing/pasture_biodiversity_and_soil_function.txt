@@ -1,0 +1,25 @@
+INTERVENTION: mixed_grazing
+METRIC: biodiversity
+SOURCE: USDA NRCS Soil Health on Pastureland
+SOURCE_URL: https://www.nrcs.usda.gov/conservation-basics/soil/soil-health/soil-health-on-pastureland
+REGION: united_states
+---
+Mixed grazing and diverse pasture management can support biodiversity when they
+increase plant functional diversity and avoid chronic overgrazing. USDA NRCS
+pastureland soil health guidance emphasizes optimizing disturbance, soil cover,
+biodiversity, and continuous living roots. Diverse forage mixtures can provide
+different rooting depths, seasonal growth patterns, and habitat resources for
+soil organisms, insects, and wildlife.
+
+The ecological benefit depends more on grazing management than on the mere
+presence of multiple livestock species. Grazing intensity, timing, recovery
+periods, water placement, and shade access determine whether vegetation
+diversity increases or declines. Well-managed grazing can stimulate regrowth,
+cycle nutrients through manure, and maintain cover. Overgrazing does the
+opposite: it reduces infiltration, exposes soil, simplifies vegetation, and can
+increase runoff. Mixed grazing may help use forage more evenly because different
+animals prefer different plants, but stocking rate must remain matched to
+forage supply. Monitoring should track ground cover, plant species balance,
+bare soil, manure distribution, and recovery after grazing. The goal is a
+pasture system with living roots, protective cover, and resilient forage
+communities.

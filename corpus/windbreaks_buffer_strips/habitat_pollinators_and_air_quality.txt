@@ -1,0 +1,27 @@
+INTERVENTION: windbreaks_buffer_strips
+METRIC: habitat_connectivity
+SOURCE: USDA National Agroforestry Center Windbreaks
+SOURCE_URL: https://research.fs.usda.gov/centers/nac/windbreaks
+REGION: united_states
+---
+Windbreaks and buffer strips can function as more than erosion-control
+structures. The USDA National Agroforestry Center describes windbreaks as linear
+plantings of trees and shrubs that benefit soils, crops, livestock, wildlife,
+and people. Beyond slowing wind, they can provide wildlife habitat, pollinator
+resources, carbon storage, air-quality protection, and soil and water quality
+benefits.
+
+For biodiversity, the value of a windbreak depends on plant diversity,
+flowering sequence, structural layers, and connection to other habitat patches.
+A single-species row may slow wind but provide fewer ecological functions than
+a mixed planting with trees, shrubs, grasses, and flowering plants. Buffers can
+also intercept dust and pesticide drift, which is relevant near sensitive
+habitats or organic production fields. Management should avoid turning the
+windbreak into an unmanaged weed source; periodic inspection, replanting gaps,
+and controlling invasive plants are part of maintaining function. In simplified
+farmland, even narrow woody strips can improve movement corridors for birds,
+beneficial insects, and small wildlife, especially when linked to riparian
+areas, hedgerows, or remnant natural vegetation. FAO water-management guidance
+reports that reducing wind velocity by 50 percent, for example from 32 to
+16 km/h, can reduce crop evapotranspiration by about 33 percent under windy dry
+conditions.

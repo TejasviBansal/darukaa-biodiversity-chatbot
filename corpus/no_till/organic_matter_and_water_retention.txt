@@ -1,0 +1,27 @@
+INTERVENTION: no_till
+METRIC: water_retention
+SOURCE: FAO The Importance of Soil Organic Matter
+SOURCE_URL: https://www.fao.org/4/a0100e/a0100e0a.htm
+REGION: united_states
+---
+No-till can contribute to water retention when it is paired with surface residue
+and diverse crop cover. FAO describes conservation agriculture as reducing
+excessive soil disturbance while maintaining residues and cover crops on the
+surface. This combination helps rainfall enter the soil, reduces runoff, and
+supports biological activity that rebuilds soil architecture. The water benefit
+comes from both physical protection at the surface and gradual improvement of
+soil organic matter and aggregation.
+
+The response varies by soil texture, residue level, climate, and management
+history. Fine-textured soils may need careful traffic management to avoid
+compaction, while sandy soils may show quicker changes in infiltration but lower
+capacity to store water. In semi-arid areas, retaining residues can reduce
+evaporation and protect seedlings from heat, but residue production may be
+limited by low biomass. No-till systems should therefore be assessed with
+practical indicators: infiltration after rainfall, visible crusting, residue
+cover, root depth, and crop stress during dry periods. Long-term success usually
+requires the full conservation agriculture package: minimal disturbance, soil
+cover, and diversified rotations. USDA ARS research in Georgia reported that
+conservation tillage limited rainfall runoff to less than 10 percent in test
+plots and increased infiltration by up to 50 percent compared with conventional
+tillage in some cases.

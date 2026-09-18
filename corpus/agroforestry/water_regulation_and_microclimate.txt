@@ -1,0 +1,25 @@
+INTERVENTION: agroforestry
+METRIC: water_regulation
+SOURCE: FAO Service Functions of Agroforestry Systems
+SOURCE_URL: https://www.fao.org/4/xii/ms20-e.htm
+REGION: general
+---
+Agroforestry systems can support water regulation by increasing infiltration,
+reducing surface runoff, improving soil cover, and moderating microclimate.
+FAO reviews agroforestry service functions including soil fertility maintenance,
+erosion reduction, water conservation, carbon capture, and biodiversity
+conservation in fragmented landscapes. Trees and shrubs contribute to these
+functions through roots, litter, canopy interception, and long-term biomass.
+
+The hydrological outcome depends on context. In humid or erosion-prone sites,
+tree cover can reduce sediment movement and help rainfall enter the soil. In
+dryland systems, trees may compete with crops for water if spacing and species
+selection are poorly matched to rainfall. Well-designed agroforestry therefore
+uses local knowledge of soil depth, rainfall timing, rooting patterns, and crop
+shade tolerance. Pruning, contour layout, and mulched tree rows can reduce
+competition and improve complementarity. At landscape scale, agroforestry can
+also improve ecological connectivity, especially where tree lines, hedgerows,
+or scattered shade trees link remnant habitats. These benefits build slowly as
+woody vegetation matures, so early monitoring should track survival, ground
+cover, crop performance, and soil moisture rather than expecting immediate full
+system recovery.

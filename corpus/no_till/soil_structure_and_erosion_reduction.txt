@@ -1,0 +1,27 @@
+INTERVENTION: no_till
+METRIC: soil_structure
+SOURCE: USDA NRCS Soil Health on Cropland
+SOURCE_URL: https://www.nrcs.usda.gov/conservation-basics/soil/soil-health/soil-health-on-cropland
+REGION: united_states
+---
+No-till and reduced-till systems protect soil structure by minimizing mechanical
+disturbance. USDA NRCS soil health guidance describes minimizing disturbance as
+one of the principles for cropland soil health, noting that tillage can damage
+soil organic matter, structure, biological habitat, infiltration, and erosion
+resistance. When soil is left less disturbed, aggregates and pore networks can
+develop more continuously, especially when combined with living roots and soil
+cover.
+
+No-till is most effective as part of a system rather than as an isolated
+practice. Residue retention protects the surface, cover crops add roots and
+organic matter, and rotations reduce pest and weed risks. In fields with a long
+history of compaction, drainage problems, or heavy residue removal, benefits may
+take time and may require transitional management. Weed control can also become
+more challenging if the system relies only on herbicides. The ecological goal is
+not simply to stop plowing, but to reduce disturbance while increasing cover,
+biological activity, and residue inputs. Under those conditions, no-till can
+reduce runoff, improve infiltration, and lower erosion vulnerability. FAO
+reports residue-based zero tillage trials in Brazil and Paraguay, with
+commonly reported soil-loss reductions in the 80-95 percent range across
+several zero-tillage systems in the region, though maize results were more
+modest in one central Brazil comparison.

@@ -1,0 +1,24 @@
+INTERVENTION: intercropping
+METRIC: ground_cover
+SOURCE: FAO Conservation Agriculture
+SOURCE_URL: https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/conservation-agriculture/en/
+REGION: general
+---
+Intercropping can improve ground cover by filling spaces between crop rows and
+reducing the time that soil remains bare. FAO describes conservation agriculture
+as combining minimum soil disturbance, permanent organic soil cover, and crop
+species diversification in sequences or associations. Intercropping contributes
+most directly to the diversification and cover principles when plant mixtures
+are chosen to complement each other rather than compete strongly for the same
+resources at the same time.
+
+The ecological logic is resource partitioning. A cereal and legume, or a tall
+crop and low-growing cover crop, may use light, rooting depth, and nutrients in
+different ways. More continuous cover can protect soil from raindrop impact,
+moderate temperature, and provide habitat for soil organisms. The benefit is
+strongest where the secondary crop establishes early enough to cover the ground
+but is managed so it does not suppress the main crop. In low-rainfall systems,
+plant density and termination timing matter because extra cover can also use
+scarce water. Intercropping should therefore be evaluated with both biodiversity
+and production indicators: cover percentage, residue return, pest incidence,
+water stress, and yield stability.

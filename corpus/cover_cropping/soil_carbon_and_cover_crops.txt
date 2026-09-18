@@ -1,0 +1,26 @@
+INTERVENTION: cover_cropping
+METRIC: soil_organic_carbon
+SOURCE: FAO Soil Organic Cover in Conservation Agriculture
+SOURCE_URL: https://www.fao.org/conservation-agriculture/in-practice/soil-organic-cover/en/
+REGION: general
+---
+Cover crops are grown during periods when commercial crops are absent, and their
+main biodiversity value begins with keeping living roots and plant residues in
+the system for more of the year. FAO describes soil organic cover as a core part
+of conservation agriculture because residues and cover crops protect soil,
+recycle nutrients, improve structure, and add organic matter. The soil organic
+carbon response depends strongly on climate, biomass production, residue
+management, grazing pressure, and whether tillage is reduced at the same time.
+For that reason, a single universal percentage gain should not be assumed.
+
+In degraded cropland, cover crops can gradually improve carbon inputs through
+roots, shoots, and microbial activity. Legume cover crops add biologically fixed
+nitrogen, while grasses often produce persistent residues that protect the soil
+surface. Mixed cover crops can combine these functions. The practice is most
+reliable when cover crops are planned as part of a rotation rather than as a
+standalone add-on. In dryland systems, water trade-offs must be managed carefully
+so that cover crops build soil function without depleting moisture needed by the
+next cash crop. FAO conservation agriculture examples report an average carbon
+accumulation of about 0.5 tonne per hectare per year in southern Brazil, while
+also stressing that zero tillage alone is not enough without large biomass
+inputs from residues, rotations, and cover crops.

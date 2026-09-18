@@ -1,0 +1,28 @@
+INTERVENTION: riparian_buffers
+METRIC: habitat_connectivity
+SOURCE: USDA Forest Service Riparian Forest Buffers
+SOURCE_URL: https://research.fs.usda.gov/centers/nac/riparianforestbuffers
+REGION: united_states
+---
+Riparian buffers connect terrestrial and aquatic habitats. The USDA Forest
+Service describes riparian forest buffers as streamside areas with trees,
+shrubs, and perennial plants managed differently from surrounding land to provide
+conservation benefits. These buffers can filter nutrients, pesticides, animal
+waste, and sediment; stabilize banks; provide shade and food for aquatic
+organisms; and create wildlife habitat and corridors.
+
+Connectivity is especially important in fragmented agricultural landscapes.
+Stream corridors often form natural movement routes for birds, insects,
+amphibians, and mammals. A diverse buffer with native trees, shrubs, grasses,
+and leaf litter can provide nesting sites, forage, cover, and cooler
+microclimates. In the stream, leaf litter and woody debris contribute to food
+webs and habitat complexity. Buffer design should reflect the water body,
+flooding pattern, adjacent land use, and conservation goal. Where runoff carries
+sediment or nutrients, dense herbaceous zones may be useful upslope of woody
+vegetation. Where aquatic temperature or bank stability is the priority, trees
+and shrubs are central. Maintenance should focus on survival, invasive control,
+and preventing repeated disturbance. USDA ARS summaries report riparian buffers
+5-40 meters wide trapping sediment at levels commonly cited in the 70-95%+
+range depending on buffer width and design, but effectiveness dropped sharply
+where gullies cut through the buffer, showing why flow paths and maintenance
+matter.

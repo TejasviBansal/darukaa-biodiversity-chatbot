@@ -1,0 +1,25 @@
+INTERVENTION: intercropping
+METRIC: pest_pressure
+SOURCE: FAO Conservation Agriculture Species Diversification
+SOURCE_URL: https://www.fao.org/conservation-agriculture/in-practice/species-diversification/en/
+REGION: general
+---
+Intercropping increases plant diversity within the same field during the same
+season. FAO conservation agriculture guidance emphasizes diversification of crop
+species grown in sequences or associations because different plant species feed
+different soil organisms, use resources in different ways, and can interrupt
+crop-specific pest and disease cycles. In practice, the pest benefit of
+intercropping depends on crop choice, planting geometry, and whether the
+secondary crop provides habitat for beneficial insects or simply competes with
+the main crop.
+
+Well-planned intercrops can reduce pest pressure by making host plants less
+continuous, adding floral resources, and supporting predators or parasitoids.
+Legume-cereal systems may also improve nitrogen cycling, while deep- and
+shallow-rooted combinations can explore different soil layers. These benefits
+are not guaranteed. Poorly matched mixtures can increase humidity, complicate
+weed control, or make harvest difficult. Intercropping works best when each crop
+has a clear role: soil cover, nitrogen contribution, market product, fodder,
+pollinator resource, or erosion protection. Local field trials are important
+because varieties, rainfall, and labor constraints strongly affect whether the
+association improves resilience.

@@ -1,0 +1,26 @@
+INTERVENTION: crop_rotation
+METRIC: nutrient_cycling
+SOURCE: FAO Conservation Agriculture Species Diversification
+SOURCE_URL: https://www.fao.org/conservation-agriculture/in-practice/species-diversification/en/
+REGION: general
+---
+Crop rotation supports nutrient cycling by changing the rooting patterns,
+residue quality, and biological inputs that enter the soil over time. FAO
+explains that rotations offer a diverse diet to soil microorganisms and allow
+roots at different depths to explore different soil layers. Some rotation crops
+can recover nutrients that have moved deeper in the profile, while legumes can
+contribute nitrogen through symbiosis with soil biota.
+
+A rotation is more than a sequence of market crops. It is a way to manage soil
+biology, residues, weeds, pests, and water use across seasons. Deep-rooted crops
+can create biopores, fibrous-rooted crops can stabilize aggregates near the
+surface, and high-residue crops can add organic matter. The strongest soil
+health benefits usually appear when rotations include functionally different
+species rather than minor variations of the same crop family. Rotations should
+also account for local disease risks, residue decomposition rates, livestock
+feed needs, and planting windows. In simplified monocultures, adding even one
+well-chosen break crop can improve biological diversity, but broader rotations
+offer more reliable long-term resilience. FAO conservation agriculture guidance
+sets a practical diversification benchmark of at least three different crops in
+rotation or association, which helps prevent treating a two-crop sequence as a
+fully diversified system.
