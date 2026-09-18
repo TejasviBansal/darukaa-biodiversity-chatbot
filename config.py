@@ -7,6 +7,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+import logging
+logging.basicConfig(level=os.getenv("LOG_LEVEL", "INFO"))
+
 # --- App settings, env-driven with defaults ---
 
 CHROMA_PERSIST_DIR = os.getenv("CHROMA_PERSIST_DIR", "./chroma_store")
@@ -21,6 +24,20 @@ RETRIEVAL_SIMILARITY_CUTOFF = float(os.getenv("RETRIEVAL_SIMILARITY_CUTOFF", "0.
 MAX_FINAL_CHUNKS = int(os.getenv("MAX_FINAL_CHUNKS", "5"))
 SESSION_HISTORY_MAX_TURNS = int(os.getenv("SESSION_HISTORY_MAX_TURNS", "10"))
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
+CORE_METRICS = ["soil_organic_carbon_pct", "rainfall_mm_year", "land_use_category"]
+MIN_CORE_METRICS_REQUIRED = int(os.getenv("MIN_CORE_METRICS_REQUIRED", "2"))
+
+METRIC_LABELS = {
+    "soil_organic_carbon_pct": "soil organic carbon %",
+    "rainfall_mm_year": "annual rainfall (mm)",
+    "land_use_category": (
+        "land use type (monoculture / intercropped / agroforestry / natural forest)"
+    ),
+    "soil_ph": "soil pH",
+    "temperature_deviation_c": "temperature deviation (°C)",
+    "ground_cover_pct": "ground cover %",
+    "species_richness_trend": "species richness trend (declining / stable / improving)",
+}
 
 # --- Scientific thresholds ---
 # Each band: (label, min_value, max_value, source)

@@ -14,11 +14,27 @@ logger = logging.getLogger(__name__)
 
 _client: Any | None = None
 
+DESCRIPTOR_SUMMARY_PHRASINGS = {
+    "fragmentation": "habitat fragmentation",
+    "connectivity": "connectivity and corridors",
+    "degradation": "degradation",
+    "water_limited": "water-limited conditions",
+    "erosion_risk": "erosion risk",
+    "slope": "sloped terrain",
+    "waterways": "waterways and riparian context",
+    "perennial_cover": "perennial cover",
+    "salinity": "salinity",
+}
+
 
 # --- 1. Situation summary ---
 
 
-def build_situation_summary(classifications: dict, interactions: list) -> str:
+def build_situation_summary(
+    classifications: dict,
+    interactions: list,
+    descriptors: set[str] | None = None,
+) -> str:
     """
     Turn classified metrics and detected interaction rules into a short summary.
 
@@ -40,6 +56,13 @@ def build_situation_summary(classifications: dict, interactions: list) -> str:
         metric_parts.append(f"Detected interactions: {interaction_text}.")
     else:
         metric_parts.append("Detected interactions: none.")
+
+    if descriptors:
+        phrasings = [
+            DESCRIPTOR_SUMMARY_PHRASINGS.get(descriptor, descriptor)
+            for descriptor in sorted(descriptors)
+        ]
+        metric_parts.append("User context descriptors: " + ", ".join(phrasings) + ".")
 
     return " ".join(metric_parts)
 
@@ -73,6 +96,22 @@ context does not support any strong recommendation, return fewer
 recommendations, even zero, rather than inventing one. Use ONLY
 information from the retrieved context -- do not use outside knowledge,
 even if you believe it to be true.
+
+Quantitative estimates: When the retrieved evidence contains a quantitative
+estimate relevant to a recommendation -- a percentage, a rate per hectare, a
+timespan, a numeric range, or a ratio -- prioritize including that estimate in
+the recommendation text over a purely qualitative description. Use the figure
+exactly as it appears in the evidence. Do not invent, round, extrapolate, or
+combine numbers from different evidence passages. If the retrieved evidence does
+not contain a relevant number, do not add one.
+
+Specific practices and species: When the retrieved evidence names a specific
+plant species (for example chickpea, lentil, hairy vetch, clover, cowpea), a
+plant functional group (for example legume, grass, deep-rooted crop, forb), or
+a specific practice (for example three-crop rotation, mixed cover crop,
+contour-planted tree rows), name it explicitly in the recommendation text
+rather than describing the practice generically. Only use names that appear in
+the retrieved evidence.
 """.strip()
 
 

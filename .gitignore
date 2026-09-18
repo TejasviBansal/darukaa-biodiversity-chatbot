@@ -7,3 +7,5 @@ venv/
 .env
 chroma_store/
 test_live.py
+.DS_Store
+*.pyc

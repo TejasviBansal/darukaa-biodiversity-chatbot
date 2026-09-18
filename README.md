@@ -55,6 +55,24 @@ default generation model is `gemini-3.1-flash-lite`; Gemini model availability
 changes over time, so periodically verify this value against Google's model
 documentation: https://ai.google.dev/gemini-api/docs/models.
 
+## Phase 4
+
+Phase 4 adds a FastAPI backend and Streamlit frontend for browser-based demos.
+Run the backend first:
+
+```bash
+uvicorn api:app --reload
+```
+
+Then, in a second terminal, run the frontend:
+
+```bash
+streamlit run app.py
+```
+
+Both must run at the same time for the full demo: the backend listens on port
+`8000`, and the Streamlit app sends chat requests to `http://localhost:8000`.
+
 ## Install
 
 ```bash
@@ -85,6 +103,8 @@ mypy .
 - `memory.py`: thread-safe in-memory session and history store.
 - `respond.py`: runs the full classify, retrieve, generate, validate pipeline.
 - `validator.py`: drops ungrounded LLM recommendations and assigns confidence.
+- `api.py`: FastAPI backend exposing health, chat, and session endpoints.
+- `app.py`: Streamlit browser UI for structured metric input and chat display.
 - `corpus/`: curated Phase 2 intervention knowledge files.
 - `scripts/build_knowledge_base.py`: rebuilds the persistent ChromaDB collection.
 - `tests/`: focused pytest coverage for Phase 1 behavior.
