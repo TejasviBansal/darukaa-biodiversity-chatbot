@@ -184,7 +184,7 @@ def _get_model() -> SentenceTransformer:
     """Load and cache the embedding model once per process."""
     global _model
     if _model is None:
-        _model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+        _model = SentenceTransformer(EMBEDDING_MODEL_NAME, device="cpu", model_kwargs={"low_cpu_mem_usage": False},)
     return _model
 
 
