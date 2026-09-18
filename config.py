@@ -3,13 +3,18 @@
 import os
 from typing import NamedTuple
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # --- App settings, env-driven with defaults ---
 
 CHROMA_PERSIST_DIR = os.getenv("CHROMA_PERSIST_DIR", "./chroma_store")
 CHROMA_COLLECTION_NAME = os.getenv("CHROMA_COLLECTION_NAME", "biodiversity_knowledge")
 CORPUS_ROOT_DIR = os.getenv("CORPUS_ROOT_DIR", "./corpus")
 EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "all-mpnet-base-v2")
-LLM_MODEL_NAME = os.getenv("LLM_MODEL_NAME", "gemini-1.5-flash")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+LLM_MODEL_NAME = os.getenv("LLM_MODEL_NAME", "gemini-3.1-flash-lite")
 LLM_TEMPERATURE = float(os.getenv("LLM_TEMPERATURE", "0.2"))
 RETRIEVAL_TOP_K = int(os.getenv("RETRIEVAL_TOP_K", "8"))
 RETRIEVAL_SIMILARITY_CUTOFF = float(os.getenv("RETRIEVAL_SIMILARITY_CUTOFF", "0.42"))
